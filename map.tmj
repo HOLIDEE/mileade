@@ -848,7 +848,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/0UVT5cy0pv0"
+                         "value":"https:\/\/www.youtube.com\/embed\/0UVT5cy0pv0?controls=0"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -915,7 +915,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/21Zxy_LrlW0"
+                         "value":"https:\/\/www.youtube.com\/embed\/21Zxy_LrlW0?controls=0"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -982,7 +982,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/rxr5FL2-gig"
+                         "value":"https:\/\/www.youtube.com\/embed\/rxr5FL2-gig?controls=0"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1049,7 +1049,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/lqpfeDqEVk0"
+                         "value":"https:\/\/www.youtube.com\/embed\/lqpfeDqEVk0?controls=0"
                         }],
                  "type":"tilelayer",
                  "visible":true,
